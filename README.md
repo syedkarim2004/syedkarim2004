@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **abdulkarimbarauni@gmail.com**
 
-- ⚡ Fun fact **I ride bikes 🏍️ to clear my head, debate politics 🎤 like it’s a sport, and still find time for biryani 🍛. I once joined an MUN debate just for fun… and ended up schooling half the committee 😅. I think I’m funny 🤡— my friends say I’m not, but they laugh anyway. My best ideas usually come either on a late-night bike ride or over a plate of biryani. I can switch from coding MERN apps 💻 to debating government policies 🏛️ without missing a beat.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdul karim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul karim" height="30" width="40" /></a>
