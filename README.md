@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-karim-41665a205/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abdulkarimbarauni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#92f3f0f6e7fef9f3e0fbfff0f3e0f3e7fcfbd2f5fff3fbfebcf1fdff"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://syedkarim2004.github.io/portfollio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
@@ -57,12 +57,12 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedkarim2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedkarim2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=syedkarim2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedkarim2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=syedkarim2004&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=syedkarim2004&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -79,43 +79,4 @@
 
 > *"Ship fast, think deep, iterate harder."*
 
-[![](https://visitcount.itsvg.in/api?id=syedkarim2004&icon=1&color=0)](https://visitcount.itsvg.in)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulkarimbarauni@gmail.com)  
-
----
-
-## 💻 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=syedkarim2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=syedkarim2004&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedkarim2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=syedkarim2004&icon=1&color=0)](https://visitcount.itsvg.in)  
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=syedkarim2
